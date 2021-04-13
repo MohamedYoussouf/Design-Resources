@@ -1,13 +1,18 @@
-# Table of Contents
+# Design Resources
 
-- [Table of Contents](#table-of-contents)
-  - [General](#general)
-  - [Colors](#colors)
-  - [Illustrations](#illustrations)
-  - [Stock Photos](#stock-photos)
-  - [Icons](#icons)
+A curated list of design resources from design templates, stock photos, icons, colors, and much more
 
-## General
+![Repository banner](thumbnail.png)
+
+## Table of Contents
+
+- [General](#general)
+- [Colors](#colors)
+- [Illustrations](#illustrations)
+- [Stock Photos](#stock-photos)
+- [Icons](#icons)
+
+### General
 
 Website | Description
 --------|------------
@@ -26,7 +31,7 @@ Website | Description
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Colors
+### Colors
 
 Website | Description
 --------|------------
@@ -41,7 +46,7 @@ Website | Description
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Illustrations
+### Illustrations
 
 Website | Description
 --------|------------
@@ -59,7 +64,7 @@ Website | Description
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Stock Photos
+### Stock Photos
 
 Website | Description
 --------|------------
@@ -74,7 +79,7 @@ Website | Description
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Icons
+### Icons
 
 Website | Description
 --------|------------
