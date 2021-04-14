@@ -91,6 +91,7 @@ Website | Description
 [Noun Project](https://thenounproject.com) | Browse over 3 million art-quality icons and photos
 [CSS.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons that are available in SVG Sprite, styled-components, NPM & API
 [Ikonate](https://ikonate.com/) | fully customisable & accessible vector icons
+[Tabler Icons](https://tabler-icons.io) | A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
