@@ -26,6 +26,7 @@ Website | Description
 [100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens
 [Figma Resources](https://www.figmabox.com/) | A curated Figma resources, UI kits, templates & freebies to save you time and speed up your workflow
 [UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
+[CodeMyUI](https://codemyui.com) | Handpicked collection of web design & UI inspiration with code snippets.
 [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
 
 <div align="right">
@@ -92,6 +93,7 @@ Website | Description
 [Noun Project](https://thenounproject.com) | Browse over 3 million art-quality icons and photos
 [CSS.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons that are available in SVG Sprite, styled-components, NPM & API
 [Ikonate](https://ikonate.com/) | fully customisable & accessible vector icons
+[Tabler Icons](https://tabler-icons.io) | A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
