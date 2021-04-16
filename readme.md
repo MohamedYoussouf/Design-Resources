@@ -27,6 +27,7 @@ Website | Description
 [Figma Resources](https://www.figmabox.com/) | A curated Figma resources, UI kits, templates & freebies to save you time and speed up your workflow
 [UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
 [CodeMyUI](https://codemyui.com) | Handpicked collection of web design & UI inspiration with code snippets.
+[Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
