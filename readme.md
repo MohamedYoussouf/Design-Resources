@@ -43,6 +43,7 @@ Website | Description
 [Color Hunt](https://colorhunt.co/) | a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 [Google Material Color Tool](https://material.io/resources/color/) | Create and share color palettes for your UI, and measure the accessibility of any color combination.
 [ColorSpace](https://mycolor.space/) | Generate nice color palettes from one color
+[Veranda Color](https://verandacolor.com) | Browse color palettes made by other designers, generate and submit your own
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
