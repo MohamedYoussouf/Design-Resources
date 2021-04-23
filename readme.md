@@ -28,6 +28,8 @@ Website | Description
 [UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
 [CodeMyUI](https://codemyui.com) | Handpicked collection of web design & UI inspiration with code snippets.
 [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
+[Free Photoshop Templates](https://gitu.net/en/) | Free PSD and Adobe Xd templates.
+[Free Sketch App Resources](https://sketchfav.com/en/) | Free high quality icons, mockups and UI kits for Sketch App.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
