@@ -107,6 +107,11 @@ Website | Description
 [CSS.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons that are available in SVG Sprite, styled-components, NPM & API
 [Ikonate](https://ikonate.com/) | fully customisable & accessible vector icons
 [Tabler Icons](https://tabler-icons.io) | A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+[Iconfinder](https://www.iconfinder.com/) | Filter through the world’s largest marketplace for icons with flexibility and ease.
+[Flaticon](https://www.flaticon.com/) | Free accessories that allow you to organize, create and save time on your designs
+[Heroicons](https://heroicons.dev/) | Find icons for your project
+[Bootstrap Icons](https://icons.getbootstrap.com/) | Free, high quality, open source icon library with over 1,300 icons
+[Simple Icons](https://simpleicons.org/) | 1897 Free SVG icons for popular brands
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
