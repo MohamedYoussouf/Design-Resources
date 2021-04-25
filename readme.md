@@ -6,11 +6,13 @@ A curated list of design resources from design templates, stock photos, icons, c
 
 ## Table of Contents
 
-- [General](#general)
-- [Colors](#colors)
-- [Illustrations](#illustrations)
-- [Stock Photos](#stock-photos)
-- [Icons](#icons)
+- [Design Resources](#design-resources)
+  - [Table of Contents](#table-of-contents)
+    - [General](#general)
+    - [Colors](#colors)
+    - [Illustrations](#illustrations)
+    - [Stock Photos](#stock-photos)
+    - [Icons](#icons)
 
 ### General
 
@@ -46,6 +48,10 @@ Website | Description
 [Google Material Color Tool](https://material.io/resources/color/) | Create and share color palettes for your UI, and measure the accessibility of any color combination.
 [ColorSpace](https://mycolor.space/) | Generate nice color palettes from one color
 [Veranda Color](https://verandacolor.com) | Browse color palettes made by other designers, generate and submit your own
+[Colors lol](https://colors.lol/) | Overtly descriptive color palettes
+[Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration
+[0<sup>to</sup>255](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more
+[Flat UI Colors](https://flatuicolors.com/) | Features a total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -64,6 +70,10 @@ Website | Description
 [Manypixels](https://www.manypixels.co/gallery) | 2,500+ royalty-free and editable illustrations to power up your design projects
 [Avataaars](https://avataaars.com) | Avatar Illustrations Sketch Library
 [Freellustrations](https://freellustrations.com/) | Collection of high-resolution vector or illustrations background images for modern websites and landing pages
+[Delesign](https://delesign.com/free-designs/graphics/) | Royalty-free designs for your website, social media, blog, email newsletters, and more.
+[Mixkit](https://mixkit.co/free-stock-art/) | Discover free art made by talented creators for websites, framed prints, ads and more.
+[Control](https://control.rocks/) | Combo set of 108 customizable illustrations
+[Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
