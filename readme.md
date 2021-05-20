@@ -16,6 +16,8 @@ A curated list of design resources from design templates, stock photos, icons, c
 
 Website | Description
 --------|------------
+[Themeselection](https://themeselection.com/) | Selected high quality, modern design, professional and easy-to-use Free Bootstrap Admin Dashboard Template,
+HTML Themes and UI Kits to create your applications faster!
 [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designer and developers, constantly updated.
 [Sketch App Sources](https://www.sketchappsources.com/) | Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
 [Figma Community](https://www.figma.com/community) | Explore, install, use, and remix thousands of files and plugins
@@ -30,6 +32,7 @@ Website | Description
 [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
 [Free Photoshop Templates](https://gitu.net/en/) | Free PSD and Adobe Xd templates.
 [Free Sketch App Resources](https://sketchfav.com/en/) | Free high quality icons, mockups and UI kits for Sketch App.
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
