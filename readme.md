@@ -6,13 +6,11 @@ A curated list of design resources from design templates, stock photos, icons, c
 
 ## Table of Contents
 
-- [Design Resources](#design-resources)
-  - [Table of Contents](#table-of-contents)
-    - [General](#general)
-    - [Colors](#colors)
-    - [Illustrations](#illustrations)
-    - [Stock Photos](#stock-photos)
-    - [Icons](#icons)
+- [General](#general)
+- [Colors](#colors)
+- [Illustrations](#illustrations)
+- [Stock Photos](#stock-photos)
+- [Icons](#icons)
 
 ### General
 
