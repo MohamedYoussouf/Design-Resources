@@ -52,6 +52,8 @@ Website | Description
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration
 [0<sup>to</sup>255](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more
 [Flat UI Colors](https://flatuicolors.com/) | Features a total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
+[Hexcolorpedia](https://hexcolorpedia.com/) | Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
+[iColorpalette](https://icolorpalette.com) | Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
