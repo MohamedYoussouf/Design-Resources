@@ -26,6 +26,8 @@ Website | Description
 [100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens
 [Figma Resources](https://www.figmabox.com/) | A curated Figma resources, UI kits, templates & freebies to save you time and speed up your workflow
 [UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
+[GetWaves](https://getwaves.io/) | SVG random waves generator (available as Figma plugin)
+[BlobMaker](https://www.blobmaker.app/) | SVG random blob generator (available as Figma plugin)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
