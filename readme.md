@@ -44,6 +44,7 @@ Website | Description
 --------|------------
 [Adobe Color](https://color.adobe.com/) | A color palette generator
 [Coolors](https://coolors.co/) | Generate or browse beautiful color combinations for your designs
+[ColorsWall](https://colorswall.com/) | Place to store your Colors Palettes
 [Colormind](http://colormind.io/) | Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 [Color Hunt](https://colorhunt.co/) | a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 [Google Material Color Tool](https://material.io/resources/color/) | Create and share color palettes for your UI, and measure the accessibility of any color combination.
