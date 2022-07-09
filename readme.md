@@ -11,6 +11,7 @@ A curated list of design resources from design templates, stock photos, icons, c
 - [Illustrations](#illustrations)
 - [Stock Photos](#stock-photos)
 - [Icons](#icons)
+- [Collaboration](#collaboration)
 
 ### General
 
@@ -117,6 +118,20 @@ Website | Description
 [Heroicons](https://heroicons.dev/) | Find icons for your project
 [Bootstrap Icons](https://icons.getbootstrap.com/) | Free, high quality, open source icon library with over 1,300 icons
 [Simple Icons](https://simpleicons.org/) | 1897 Free SVG icons for popular brands
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+### Collaboration
+
+Website | Description
+--------|------------
+[Airtable](https://airtable.com/) | Collaborative tables and spreadsheets
+[Asana](https://asana.com/) | Powerful project management software
+[Notion](https://notion.com/) | All-in-one workspace
+[Slack](https://slack.com/) | Team chat and messaging
+[Taskade](https://taskade.com/) | Real-time organization tool
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
