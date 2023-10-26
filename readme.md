@@ -79,6 +79,8 @@ Website | Description
 [Mixkit](https://mixkit.co/free-stock-art/) | Discover free art made by talented creators for websites, framed prints, ads and more.
 [Control](https://control.rocks/) | Combo set of 108 customizable illustrations
 [Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters
+[Easyvectors](https://easyvectors.com/) | EasyVectors.com is a stock of quality free vector art. Download best vector graphics absolutely for free.
+[1010clipart](https://1010clipart.com/) | Free ClipArt, Illustrations, and Vectors.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
