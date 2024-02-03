@@ -96,6 +96,7 @@ Website | Description
 [PicJumbo](https://picjumbo.com/) | free stock photos, backgrounds and free high-resolution images for personal and commercial use
 [Uimg.studio](https://uimg.studio/) | Access a diverse collection of photos perfect for various projects
 [Photostockeditor](https://photostockeditor.com/) | +250k free stock photos for commercial use.
+[Nappy](https://nappy.co/) | Beautiful photos of Black and Brown people, for free. For commercial and personal use.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
