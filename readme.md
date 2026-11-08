@@ -57,6 +57,7 @@ Website | Description
 [Flat UI Colors](https://flatuicolors.com/) | Features a total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
 [Hexcolorpedia](https://hexcolorpedia.com/) | Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 [iColorpalette](https://icolorpalette.com) | Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
+[Cursive Generation Calligraphy Color Palette](https://cursive-generation.com/calligraphy-color-palette) | Free browser tool for exploring paper and ink color combinations for calligraphy.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
